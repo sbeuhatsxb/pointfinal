@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Point final</string>
+    <string name="menu_home">Mes règles</string>
+    <string name="menu_gallery">Dernières règles</string>
+    <string name="period_cycle">Dernières règles</string>
+    <string name="selected_date">"Choisir une date : "</string>
+    <string name="calendar_title">CHOISIR LA DERNIERE DATE DES REGLES</string>
+    <string name="cycle_edit">Cycle (jours) :</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="nav_header_subtitle">un calculateur de règles/fécondité</string>
+    <string name="nav_header_title">Application \"Mes règles\"</string>
+    <string name="select_date">Choisir une date</string>
+    <string name="last_period">Date des dernières règles :</string>
+</resources>
